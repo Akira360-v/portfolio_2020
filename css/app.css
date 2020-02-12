@@ -13,5 +13,7 @@ header{background:url(../images/bg-1-8440d683.png) no-repeat;height:100vh;max-he
 
 .qwe{background:#000}
 
-
+header {
+  background-size: cover;
+}
 
